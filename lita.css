@@ -1,0 +1,61 @@
+	body{
+		font-family: open-sans-condensed;
+		font-size: 16pt;
+	}
+	h1{
+		cursor: pointer;
+		text-align: center;
+		font-size: 44pt;
+	}
+	h2{
+		text-align: center;
+		font-size: 36pt;
+	}input{
+		font-size: 28pt;
+	}
+	select{
+		font-size: 28pt;
+	}
+	.footer{
+		font-size: 16pt;
+	}
+	div.form{
+		text-align: center;
+		margin-top: 30px;
+	}
+	.footer{
+		margin-top: 50px;
+		text-align: center;
+	}
+	div.table{
+		border: 1px solid gray;
+		text-align: center;
+		margin-top: 15px;
+	}
+	div.tr{
+		padding-top: 4px;
+		padding-bottom: 4px;
+		border: 1px solid gray;
+		text-align: center;
+		margin-top: -1px;
+	}
+	.menu{
+		text-align: center;
+		cursor: pointer;
+	}
+	.menu .span{
+		cursor: pointer;
+	}
+	.punch{
+		
+	}
+	.btn{
+		cursor: pointer;
+		border: 1px solid gray;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		border-radius: 5px;
+		background: linear-gradient(#FFFFFF,#E6E6E6);
+	}
